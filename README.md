@@ -9,7 +9,6 @@ and a 🧑‍💻 1C:Enterprise developer with a 9+ years of experience
 
 ## What am I learning now 📘?
 ✔️For now I am continue learning Full-stack Development:
-⚡Node.js for Server-Side 
-⚛️React for Client-Side
+⚡Node.js for Server-Side, ⚛️React for Client-Side
 
 🔥Also learning 🕹️Unreal engine and 👓C++
