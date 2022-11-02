@@ -1,14 +1,13 @@
 
 ### Hi! My name is Alexandr 👋 
-🌍 Born in Russia, Ekaterinburg
-🌐 Now living in Tbilisi, Georgia
+🌍 Moscow, Russia/Tbilisi, Georgia
 
 ## Who am I?
-I am a 👨🏼‍💻 full-stack developer with 2 years of experience, 
-and a 🧑‍💻 1C:Enterprise developer with 9+ years of experience
+👨🏼‍💻 full-stack developer with 2 years of experience
+🧑‍💻 1C:Enterprise developer with 9+ years of experience
 
-## What am I learning now 📘?
+## What do I learn 📘?
 ✔️For now learn Full-stack Development:
-⚡Node.js for Server-Side, ⚛️React for Client-Side
+Node.js for Server-Side, React for Client-Side
 
-🔥Also learn 🕹️Unreal engine and 👓C++
+🔥Also learn Unreal engine and C++
